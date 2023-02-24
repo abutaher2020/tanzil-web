@@ -1,0 +1,5 @@
+.divbotmenu1{  position:fixed;  width:100%;  bottom:0;  border-top:6px solid #ccc;  z-index: 1;}
+.divbotmenu1{  border:none;   padding:8px 16px;   overflow:hidden;  /*  Menu normal color*/  background-color:gray;  text-align:center;}
+
+
+

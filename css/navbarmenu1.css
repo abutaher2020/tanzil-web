@@ -1,0 +1,12 @@
+/* CSS Code for Navigation bar :START*/
+#imgicon{  width:30px;  height:15px;}
+.navbar01{  position:fixed;  width:100%;  top:0;  border-top:6px solid #ccc;  z-index: 1;}
+.navbar01b{  border:none;   padding:8px 16px;   overflow:hidden;  /*  Menu normal color*/  background-color:yellow;  text-align:center;}
+/* this is forMouse over and color change.navbar01b:hover{  color:green!important;  background-color:pink!important;}*/
+/* Visited Link color change*/
+a:visited{  color:blue; /* background-color: green;*/  font-family: monospace;}
+.navbar01a01{  background-color: red;  padding:8px 16px;  float:left;  width:auto;  border:none;  display:block;  outline:0;  }
+.navbar01a02{  background-color: lightpink;  padding:8px 16px;  float:left;  width:auto;  border:none;  display:block;  outline:0;}
+.navbar01a03{  background-color: lightblue;  padding:8px 16px;  float:left;  width:auto;  border:none;  display:block;  outline:0;}
+.navbar01a04{  background-color: lightgreen;  padding:8px 16px;  float:left;  width:auto;  border:none;  display:block;  outline:0;}
+/* CSS Code for Navigation bar :END*/
